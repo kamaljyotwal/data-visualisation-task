@@ -1,0 +1,29 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  min-width: 50vw;
+  max-width: 60vw;
+  margin: 0 auto;
+}
+
+td,
+th {
+  border: 1px solid #eee;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #eee;
+}
+.table_header {
+  font-weight: bold;
+}
+
+.gamma_table {
+  margin-top: 3rem;
+}
+
+.gamma_text {
+  font-size: 1.1rem;
+}
