@@ -2,7 +2,7 @@
 
 ### Screenshot of webpage below
 
-![Screenshot of webpage](./src/assets/ss.png)
+![Screenshot of webpage](./src/assets/highlight.png)
 
 ## Available Scripts
 
